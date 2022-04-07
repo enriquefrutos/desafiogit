@@ -47,4 +47,8 @@ footer div img{
 }
 footer{
     background-color: lightpink;
+    position: sticky;
+    bottom: 0;
+   padding: 0;
+   margin: 0;
 }
