@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headercont{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titulo{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header div img{
+    width: 80px;
+    
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: beige;
+    
+}
+.peliculas{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: bisque;
+}
+.peliculas img{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px 60px 5px 60px ;
+    
+}
+section div{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer div img{
+    width: 30px;
+    opacity: 0.5;
+
+}
+footer{
+    background-color: lightpink;
+}
